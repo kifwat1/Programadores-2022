@@ -18,7 +18,12 @@ cascada.
 
 # ¿Cualés son las Ceremonias en Scrum:
 
+Las ceremonias en scrum son las siguientes:
 
+-Sprint Planning Meeting
+-Daily Scrum Meeting
+-Sprint Review Meeting
+-Sprint Retropective Meeting
 
 # Artefactos en Scrum.
 
