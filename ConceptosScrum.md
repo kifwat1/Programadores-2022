@@ -65,3 +65,9 @@ necesarios justo a tiempo.
 
 
 # ¿A qué se refiere con "roles" cuando hablamos de Scrum?
+En Scrum, el equipo se focaliza en construir software de calidad. La gestión de un proyecto Scrum se centra en definir cuáles son las características que debe tener el producto a construir (qué construir, qué no y en qué orden) y en vencer cualquier obstáculo que pudiera entorpecer la tarea del equipo de desarrollo.
+
+El equipo Scrum está formado por los siguientes roles:
+*Scrum master:Scrum master: Persona que lidera al equipo guiándolo para que cumpla las reglas y procesos de la metodología. Gestiona la reducción de impedimentos del proyecto y trabaja con el Product Owner para maximizar el ROI.
+*Product owner (PO):
+* Scrum Team:
