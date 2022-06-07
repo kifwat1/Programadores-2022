@@ -31,6 +31,8 @@ En el marco de trabajo Scrum, denominamos Artefacto a aquellos elementos físico
 que se producen como resultado de la aplicación de Scrum. Los tres principales 
 artefactos o herramientas Scrum son: el Product Backlog, Sprint Backlog y el Incremento.
 
+Una transparencia imprescindible para maximizar el valor aportado en la próxima entrega y minimizar el riesgo durante el periodo que dure el Sprint.Si los artefactos no son suficientemente transparentes, las decisiones pueden ser erróneas, con lo que el valor puede disminuir y el riesgo aumentar.
+
 *La Pila de Producto (Product Backlog) es una lista ordenada. Cada una de las
 entradas de esta lista son posibles trabajos a seleccionarse para su realización
 durante una reunión de planificación de Sprint .
