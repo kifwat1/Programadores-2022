@@ -22,6 +22,14 @@ cascada.
 
 # Artefactos en Scrum.
 
+La Pila de Producto (Product Backlog) es una lista ordenada. Cada una de las
+entradas de esta lista son posibles trabajos a seleccionarse para su realización
+durante una reunión de planificación de Sprint .
+La pila de producto puede incluir ítems para explorar las necesidades del cliente,
+analizar opciones técnicas, y otros ítems de trabajo tales como la corrección de
+errores (bugs) o la configuración del entorno. Todo lo que esté en la pila de
+producto representa o aporta a conseguir el objetivo del producto (Product Goal) y
+este último es el objetivo que el equipo tiene que conseguir cumplir a largo plazo.
 
 
 
