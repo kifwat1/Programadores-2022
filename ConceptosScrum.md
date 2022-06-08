@@ -78,8 +78,8 @@ En Scrum, el equipo se focaliza en construir software de calidad. La gestión de
 
 El equipo Scrum está formado por los siguientes roles:
 
-*Scrum master:Scrum master: Persona que lidera al equipo guiándolo para que cumpla las reglas y procesos de la metodología. Gestiona la reducción de impedimentos del proyecto y trabaja con el Product Owner para maximizar el ROI.
+*Scrum master: persona que lidera al equipo, guiándolo para que cumpla las reglas y procesos de la metodología. Gestiona la reducción de impedimentos del proyecto y trabaja con el Product Owner para maximizar el ROI.
 
-*Product owner (PO):
+*Product owner (PO): es el propietario del producto.
 
-* Scrum Team:
+*Scrum Team: es el equipo de desarrolladores responsable de llevar adelante un proyecto.
