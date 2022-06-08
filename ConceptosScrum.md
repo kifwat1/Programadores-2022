@@ -1,14 +1,14 @@
 # Programadores-2022
 # Scrum team 
 # ¿Que és Scrum?
-Definición de Scrum :
+Definición de Scrum:
 Scrum (n): Es un marco de trabajo a través
 del cual las personas pueden abordar
 problemas complejos adaptativos, a la vez
 que se entregan productos de forma
 eficiente y creativa con el máximo valor. 
 Scrum
-● Es una enfoque ágil para la gestión de un proyecto. Más que una
+● Es un enfoque ágil para la gestión de un proyecto. Más que una
 metodología o proceso, es un Marco de Trabajo.
 ● Utiliza procesos interactivos/incrementales.
 ● Orientado a resultados y compromisos.
@@ -23,7 +23,7 @@ Las ceremonias en scrum son las siguientes:
 -Sprint Planning Meeting
 -Daily Scrum Meeting
 -Sprint Review Meeting
--Sprint Retropective Meeting
+-Sprint Retrospective Meeting
 
 ● Sprint Planning Meeting (reunión de planificación del sprint). Se produce al iniciar cada
 Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
@@ -38,11 +38,11 @@ En el marco de trabajo Scrum, denominamos Artefacto a aquellos elementos físico
 que se producen como resultado de la aplicación de Scrum. Los tres principales 
 artefactos o herramientas Scrum son: el Product Backlog, Sprint Backlog y el Incremento.
 
-Una transparencia imprescindible para maximizar el valor aportado en la próxima entrega y minimizar el riesgo durante el periodo que dure el Sprint.Si los artefactos no son suficientemente transparentes, las decisiones pueden ser erróneas, con lo que el valor puede disminuir y el riesgo aumentar.
+La transparencia es imprescindible para maximizar el valor aportado en la próxima entrega y minimizar el riesgo durante el periodo que dure el Sprint. Si los artefactos no son suficientemente transparentes, las decisiones pueden ser erróneas, con lo que el valor puede disminuir y el riesgo aumentar.
 
 *La Pila de Producto (Product Backlog) es una lista ordenada. Cada una de las
 entradas de esta lista son posibles trabajos a seleccionarse para su realización
-durante una reunión de planificación de Sprint .
+durante una reunión de planificación de Sprint.
 La pila de producto puede incluir ítems para explorar las necesidades del cliente,
 analizar opciones técnicas, y otros ítems de trabajo tales como la corrección de
 errores (bugs) o la configuración del entorno. Todo lo que esté en la pila de
@@ -58,8 +58,8 @@ visualizar el trabajo a realizar durante cada Sprint y está gestionado por el e
 de desarrollo. Este artefacto permite entender cuál es la evolución del trabajo 
 durante el Sprint, así como hacer un análisis de riesgos. Dado que cada Sprint tiene 
 una meta específica y hay elementos seleccionados del Product Backlog que tienen 
-más o menos valor, el Sprint Backlog permite analizar hasta donde se ha cumplido el 
-objetivo y que se podría eliminar. De esta forma, maximizamos el retorno de la inversión en desarrollo.
+más o menos valor, el Sprint Backlog permite analizar hasta dónde se ha cumplido el 
+objetivo y qué se podría eliminar. De esta forma, maximizamos el retorno de la inversión en desarrollo.
 
 *Un Incremento es el resultado del Sprint, es la suma de todas las tareas, casos de uso, 
 historias de usuario y cualquier elemento que se haya desarrollado durante el Sprint y 
@@ -82,4 +82,4 @@ El equipo Scrum está formado por los siguientes roles:
 
 *Product owner (PO): es el propietario del producto.
 
-*Scrum Team: es el equipo de desarrolladores responsable de llevar adelante un proyecto.
+*Scrum Team: es el equipo de desarrolladores responsable de llevar adelante el proyecto a través del cumplimiento de todos los objetivos que implica el mismo.
