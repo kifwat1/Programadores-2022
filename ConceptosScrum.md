@@ -30,6 +30,9 @@ Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
 ● Daily Scrum Meeting (reunión periódica). Se produce diariamente, y tiene un máximo de
 20 min. de duración. Tiene por objeto tratar qué es lo que se hizo, qué se va a hacer y
 qué problemas se han encontrado, esto a fines de encontrar soluciones en la diaria.
+● Sprint Review Meeting (reunión de revisión del Sprint). Se produce al finalizar el Sprint y
+tiene por objeto mostrar qué es lo que se ha completado y qué no. Debe estar presente el
+Product Owner.
 
 
 # Artefactos en Scrum.
