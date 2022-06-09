@@ -1,6 +1,6 @@
 # Programadores-2022
 # Scrum team 
-# ¿Que és Scrum?
+# ¿Qué es Scrum?
 Definición de Scrum:
 Scrum (n): Es un marco de trabajo a través
 del cual las personas pueden abordar
