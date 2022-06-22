@@ -86,3 +86,6 @@ El equipo Scrum está formado por los siguientes roles:
 *Product owner (PO): es el propietario del producto.
 
 *Scrum Team: es el equipo de desarrolladores responsable de llevar adelante el proyecto a través del cumplimiento de todos los objetivos que implica el mismo.
+
+
+Agregar cv priscila en pdf...
